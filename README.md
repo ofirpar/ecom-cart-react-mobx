@@ -36,7 +36,7 @@ Ensure you have the following installed on your system:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ofirpar/ecom-cart-react-mobx
+   git clone https://github.com/ofirpar/ecom-cart-react-mobx.git
    cd ecom-cart-react-mobx
 2. Install dependencies:
     ```bash
